@@ -6,7 +6,7 @@ Nature Soundscape는 일상에 지친 당신을 위해 디자인된 기능성 �
 
   - 지원 : lunvyr@gmail.com
   - App Store : https://apps.apple.com/kr/app/nature-soundscape/id6790464523
-  - Google Play :
+  - Google Play : https://play.google.com/store/apps/details?id=com.lunvyr.naturesoundscape
 
 # Don't Forget
 - 해야 할 일을 메모하여 잊지않고 완수합시다. 경험치를 얻어서 식물을 성장해 나갑시다.
